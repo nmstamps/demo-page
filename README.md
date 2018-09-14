@@ -15,3 +15,5 @@ Add new content
 1. A
 2. List
 3. Here
+
+![This is a picture of a sign](exams-sign-rev.jpeg)
