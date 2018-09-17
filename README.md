@@ -18,4 +18,6 @@ Add new content
 
 ![This is a picture of a sign](exams-sign-rev.jpeg)
 
-[A link](https://andrewkulak.com)
+[An external link](https://andrewkulak.com)
+
+[A link to another Github page](page.md)
